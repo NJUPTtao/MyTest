@@ -24,5 +24,6 @@ public class Test1_if_else {
             System.out.println("什么奖励也没有");
         }
         System.out.println("陶陶好牛");
+        System.out.println("小王也好牛");
     }
 }
