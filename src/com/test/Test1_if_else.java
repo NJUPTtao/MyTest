@@ -27,5 +27,6 @@ public class Test1_if_else {
         System.out.println("小王也好牛");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
